@@ -1,1 +1,1 @@
-# Predicting-Visitor-Purchases-with-BigQuery_ML
+# Predicting-Visitor-Purchases-with-BigQuery-ML
