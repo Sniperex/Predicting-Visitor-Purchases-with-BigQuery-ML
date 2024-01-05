@@ -2,9 +2,14 @@
 
 This project was done under a Google Cloud Course.
 
-In this project, I have harnessed the power of Google Cloud's BigQuery, a fully-managed, serverless data warehouse that enables lightning-fast SQL queries using the processing power of Google's infrastructure. The primary objective is to predict the likelihood of a visitor making a purchase during a subsequent visit to the website.
+In this project, I have harnessed the power of Google Cloud's BigQuery, a fully-managed, serverless data warehouse that enables lightning-fast SQL queries using the processing power of Google's infrastructure. The primary objective of this project is to predict the likelihood of a visitor making a purchase during a subsequent visit to the Google Merchandise Store website - https://shop.googlemerchandisestore.com/
 
 The first critical step involves gathering and processing the relevant data. BigQuery, with its scalability and flexibility, proves instrumental in handling large datasets efficiently. The platform allows seamless integration with various data sources, ensuring that diverse and comprehensive information about user interactions, preferences, and historical behavior is captured.
+
+# DATA
+
+The dataset can  be found at- https://www.blog.google/products/marketingplatform/analytics/introducing-google-analytics-sample
+The dataset definitons can be found at- https://support.google.com/analytics/answer/3437719?hl=en
 
 Once the data is ingested into BigQuery, the focus shifts to preparing it for analysis. Through structured SQL queries, I've crafted a dataset that serves as the foundation for training a Logistic Machine Learning model. This model, designed to predict binary outcomes (purchase or no purchase), is trained on historical data, learning patterns and relationships within the dataset.
 
