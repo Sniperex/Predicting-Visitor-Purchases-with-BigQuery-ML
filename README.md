@@ -1,4 +1,4 @@
-# Predicting-Visitor-Purchases-with-BigQuery-ML
+# PREDICTING VISITOR PURCHASES WITH BIGQUERY ML
 
 This project was done under a Google Cloud Course.
 
