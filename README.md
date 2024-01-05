@@ -9,6 +9,7 @@ The first critical step involves gathering and processing the relevant data. Big
 # DATA
 
 The dataset can  be found at- https://www.blog.google/products/marketingplatform/analytics/introducing-google-analytics-sample
+
 The dataset definitons can be found at- https://support.google.com/analytics/answer/3437719?hl=en
 
 Once the data is ingested into BigQuery, the focus shifts to preparing it for analysis. Through structured SQL queries, I've crafted a dataset that serves as the foundation for training a Logistic Machine Learning model. This model, designed to predict binary outcomes (purchase or no purchase), is trained on historical data, learning patterns and relationships within the dataset.
